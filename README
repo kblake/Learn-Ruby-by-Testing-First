@@ -1,0 +1,24 @@
+Topics covered:
+
+* operators
+
+* arrays
+* hashes
+* loops, iterators, enumerable
+* methods
+* blocks
+
+* ranges
+
+
+* exception handling
+* member visibility (public, protected, private)
+* inheritance
+* unit testing (test::unit, rspec)
+
+* closures
+* basic functional programming
+* modules/mixins
+* method lookup
+* duck typing 
+
